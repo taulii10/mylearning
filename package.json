@@ -1,0 +1,23 @@
+{
+  "name": "mylearning",
+  "version": "1.0.0",
+  "description": "Application to manage learning groups",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taulii10/mylearning.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  },
+  "author": "Taulant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taulii10/mylearning/issues"
+  },
+  "homepage": "https://github.com/taulii10/mylearning#readme"
+}
